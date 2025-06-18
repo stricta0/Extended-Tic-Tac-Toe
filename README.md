@@ -4,6 +4,7 @@
 
 - **Imię i nazwisko:** Mikolaj Chicinski
 - **index:** 272337
+- Pliki w C (serwer i gracz) zostały napisane przez Profesora Macieja Gębałe.
 
 ## Opis projektu
 
